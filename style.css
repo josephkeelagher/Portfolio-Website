@@ -164,6 +164,33 @@ section {
     height: 80vh;
 }
 
+.typewriter-container {
+    display: inline-block;
+}
+
+.name-title {
+    letter-spacing: 2px;
+    border-right: 5px solid;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation:
+        typing 6s,
+        cursor .4s step-end infinite alternate;
+    animation-iteration-count: infinite;
+}
+
+@keyframes cursor {
+    50% { border-color: transparent;}
+}
+
+@keyframes typing {
+    0% { width: 0;}
+    25% { width: 99%;}
+    30% { width: 100%;}
+    100% { width: 100%;}
+}
+
 .section__pic-container {
     display: flex;
     height: 400px;
@@ -189,7 +216,7 @@ section {
     margin-bottom: 1rem;
 }
 
-.title {
+.title, .name-title {
     font-size: 3rem;
     text-align: center;
 }
@@ -229,11 +256,11 @@ section {
     border: rgb(53,53,53) 0.1rem solid;
 }
 
-.btn-color-1:hover, .btn-color-2:hover {
+.btn-color-1:hover, .btn-color-2:hover{
     cursor: pointer;
 }
 
-.btn-color-1, .btn-color-2:hover {
+.btn-color-1, .btn-color-2:hover{
     background: rgb(53,53,53);
     color: white;
 }
@@ -260,6 +287,7 @@ section {
     object-fit: contain; /* Maintain aspect ratio */
     flex-shrink: 0; /* Prevent icon from shrinking */
 }
+
 
 .about-containers {
     display: flex;
@@ -322,6 +350,11 @@ section {
     text-align: center;
     box-sizing: border-box;
     min-height: 300px;
+}
+
+#about .details-container{
+    justify-content: flex-start;
+    min-height: 0;
 }
 
 #experience .details-container{
