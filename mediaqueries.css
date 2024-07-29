@@ -84,8 +84,12 @@
     .section__text__p2 {
         font-size: 1.2rem;
     }
-    .title {
-        font-size: 2rem;
+    .name-title {
+        font-size: 1.5rem;
+    }
+
+    .typewriter-container {
+        width: auto;
     }
     .text-container {
         text-align: justify;
