@@ -169,7 +169,6 @@ section {
 }
 
 .name-title {
-    letter-spacing: 2px;
     border-right: 5px solid;
     width: 100%;
     white-space: nowrap;
