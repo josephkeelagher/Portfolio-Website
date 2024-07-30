@@ -170,6 +170,7 @@ section {
 
 .name-title {
     border-right: 5px solid;
+    margin-right: -5px;
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
