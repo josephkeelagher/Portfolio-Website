@@ -2,15 +2,6 @@
 <a id="readme-top"></a>
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/josephkeelagher/Portfolio-Website">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Portfolio Website</h3>
 
   <p align="center">
@@ -55,17 +46,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Website Preview][product-screenshot]](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmZnd3bHgxMjRpMWJ3bXkwbzVhZGVxMGx3NWlpNHRiemo4dzcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nC7LJyBYbiF2A57Iu/giphy.gif)
+[![Website Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmZnd3bHgxMjRpMWJ3bXkwbzVhZGVxMGx3NWlpNHRiemo4dzcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nC7LJyBYbiF2A57Iu/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmZnd3bHgxMjRpMWJ3bXkwbzVhZGVxMGx3NWlpNHRiemo4dzcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nC7LJyBYbiF2A57Iu/giphy.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]
-* [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]
-* [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
