@@ -46,7 +46,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Website Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmZnd3bHgxMjRpMWJ3bXkwbzVhZGVxMGx3NWlpNHRiemo4dzcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nC7LJyBYbiF2A57Iu/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmZnd3bHgxMjRpMWJ3bXkwbzVhZGVxMGx3NWlpNHRiemo4dzcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nC7LJyBYbiF2A57Iu/giphy.gif)
+<div align="center">
+  <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmZnd3bHgxMjRpMWJ3bXkwbzVhZGVxMGx3NWlpNHRiemo4dzcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nC7LJyBYbiF2A57Iu/giphy.gif">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmZnd3bHgxMjRpMWJ3bXkwbzVhZGVxMGx3NWlpNHRiemo4dzcyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nC7LJyBYbiF2A57Iu/giphy.gif" alt="Website Preview">
+  </a>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
